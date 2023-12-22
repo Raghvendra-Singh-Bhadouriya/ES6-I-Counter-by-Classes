@@ -1,0 +1,31 @@
+body{
+    background-image:url("https://img.freepik.com/premium-photo/composition-space-time_250994-2045.jpg?size=626&ext=jpg&ga=GA1.1.1719386324.1692726280&semt=ais");
+}
+#container{
+    border:1px solid white;
+    width:40%;
+    padding-bottom:3%;
+    margin:20% 30%;
+    border-radius:10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-image:url("https://img.freepik.com/premium-vector/happy-new-year-2020-background-with-clock_41084-446.jpg?size=626&ext=jpg&ga=GA1.1.1719386324.1692726280&semt=ais");
+}
+#display{
+    border:2px solid black;
+    width:20%;
+    margin:8% 39%;
+    font-size:250%;
+    text-align:center;
+    border-color:gray;
+    border-radius:15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    padding:2% 1% 2% 1%;
+    margin-left:4%;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border-radius:10px;
+    border-color:goldenrod;
+}
